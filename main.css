@@ -1,0 +1,94 @@
+nav {
+	color: rgb(0,16,24);
+}
+
+body {
+	background-image: url("image/8.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+video {
+
+}
+a {
+	color: rgb(23, 162, 184);
+}
+
+a:hover {
+	color: red;
+}
+
+#navigation {
+	margin: 0rem 0rem 2rem 0rem;
+	background: url("image/gplaypattern_@2X.png") repeat 0 0;
+}
+
+.navi {
+	background: url("image/gplaypattern_@2X.png") repeat 0 0;
+}
+
+#main {
+	background: url("image/gplaypattern.png") repeat 0 0;
+}
+
+#tagline {
+	text-align: center;
+	margin: 2rem 0rem 0rem 0rem;
+	font-size: 20px;
+	color: #333333;
+	text-shadow:2px 2px 20px #111111;
+	font-style: italic;
+}
+
+#lookupText {
+	margin: 2rem 0rem 2rem 0rem;
+}
+
+#lookup {
+	margin: 2rem 0rem 2rem 0rem;
+}
+
+#jumbo {
+	background: url("image/gplaypattern_@2X.png") repeat 0 0;
+}
+
+#info {
+	margin: 0rem 4rem 4rem 4rem;
+}
+
+#vid {
+	margin: 0rem 0rem 0rem 0rem;
+}
+
+#download {
+	background: url("image/gplaypattern_@2X.png") repeat 0 0;
+	background-color: rgb(52, 58, 64);
+	margin: 0rem 0rem 2rem 0rem;
+}
+
+#download-link {
+	text-align: center;
+}
+
+#carouselExampleIndicators {
+  margin: 2rem 0rem 2rem 0rem;
+}
+
+.carousel-inner {
+
+}
+
+.card-deck {
+	margin: 0rem 0rem 2rem 0rem;
+}
+
+#cover-pic {
+	margin: 0rem 0rem 2rem 0rem;
+	max-height: 40rem;
+}
+
+#table-pic {
+	max-height: 10rem;
+	max-width: 10rem;
+}
